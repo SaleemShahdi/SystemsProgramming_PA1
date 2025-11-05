@@ -1,3 +1,9 @@
+My code is in pa1.c
+
+My makefile is in makefile
+
+Assignment description is included below:
+
 <p align=center><strong>Programming Assignment 1: Basic C programming (100 points)</strong></p>
 
 The goal of this assignment is to become familiar with C programming by implementing a simple program that processes data from a CSV (comma-separated values) file. The program will compute the mean, maximum, and minimum of a specific row or column of integers.
