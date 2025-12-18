@@ -1,6 +1,6 @@
-My code is in pa1.c
+My code is in `pa1.c`
 
-My makefile is in makefile
+My makefile is in `makefile`
 
 Assignment description is included below:
 
